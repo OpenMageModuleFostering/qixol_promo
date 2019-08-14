@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Qixol_Promo",
+    "type": "magento-module",
+    "license": "GNU-General-Public-License-(GPL)",
+    "homepage": "",
+    "description": "Qixol Promo extension",
+    "authors": [
+    {
+        "name": "Qixol",
+        "email": "ken.westgate@qixol.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
